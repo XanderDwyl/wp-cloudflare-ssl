@@ -1,7 +1,8 @@
-=== Plugin Name ===
-Contributors: CTW Consulting
+=== CloudFlare SSL by CTW ===
+Contributors: cetewe
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
+Donate link: https://cetewe.de
 Tags: CloudFlare, SSL, redirect loop, HTTPS, , Flexible SSL, Universal SSL, CTW, redirect, CTW SSL
 Requires at least: 3.2.1
 Tested up to: 4.3.1
@@ -35,13 +36,13 @@ n/a
 
 == Installation ==
 
-There are no extra Steps needed for the Installation Just acticate this Plugin and you are ready to go.
+There are no extra steps needed for the installation just acticate this Plugin and you are ready to go.
 
 == Changelog ==
 
-= 1.0.2 =
+= 1.0.3 =
 
-First Release
+First Release, add directory informations
 
 == Upgrade Notice ==
 

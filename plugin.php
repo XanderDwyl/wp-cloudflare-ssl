@@ -2,7 +2,7 @@
 /*
  * Plugin Name: CTW SSL for Cloudflare
  * Plugin URI: https://cetewe.de/cloudflare-ssl-and-wordpress/
- * Description: Enables CloudFlare SSL for WordPress Admin
+ * Description: Adds Support of CloudFlare Flexibles SSL for WordPress
  * Version: 1.0.3
  * Text Domain: ctw-ssl-for-cloudflare
  * Author: CTW Consulting

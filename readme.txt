@@ -1,4 +1,4 @@
-=== CloudFlare SSL by CTW ===
+=== CTW SSL for Cloudflare ===
 Contributors: cetewe
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
